@@ -43,3 +43,5 @@ export const metadata = {
   ```
 
 # Concept of pre-rendering (SSG + SSR)
+
+# Cache (force-cache)

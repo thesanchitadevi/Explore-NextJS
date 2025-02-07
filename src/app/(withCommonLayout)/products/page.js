@@ -1,7 +1,9 @@
 import ProductCard from "@/components/Product/ProductCard";
 
 const ProductsPage = async () => {
-  const res = await fetch("http://localhost:5000/products");
+  const res = await fetch("http://localhost:5000/products", {
+    cache: "force-cache", // this will fetch the data and store it in the cache as CDN (Content Delivery Network) cache for future use
+  });
   const products = await res.json();
 
   return (
