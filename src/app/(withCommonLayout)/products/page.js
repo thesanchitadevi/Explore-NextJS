@@ -10,7 +10,7 @@ const ProductsPage = async () => {
   return (
     <div className="text-center">
       <h1 className="text-3xl font-bold py-5">Products </h1>
-      <div className="container mx-auto grid grid-cols-3 gap-4 my-5">
+      <div className="container mx-auto grid grid-cols-3 gap-8 py-5">
         {products.map((product) => (
           <ProductCard key={product.id} product={product} />
         ))}

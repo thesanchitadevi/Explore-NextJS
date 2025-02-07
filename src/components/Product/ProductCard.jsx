@@ -1,6 +1,6 @@
 export default function ProductCard({ product }) {
   return (
-    <div className="max-w-sm bg-white shadow-lg rounded-2xl overflow-hidden border border-gray-200 hover:shadow-xl transition-shadow duration-300">
+    <div className="max-w-sm bg-white shadow-lg rounded-2xl overflow-hidden border border-gray-200 hover:shadow-2xl transition-shadow duration-300">
       <img
         className="w-full h-48 object-cover"
         src={product.image}
