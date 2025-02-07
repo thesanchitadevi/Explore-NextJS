@@ -1,5 +1,5 @@
 import Image from "next/image";
-import image from "../../assets/next.jpg";
+import image from "@/assets/next.jpg";
 
 const GalleryPage = () => {
   return (
