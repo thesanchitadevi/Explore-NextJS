@@ -21,8 +21,32 @@
       "name": "Gaming Laptop 16GB RAM",
       "brand": "GigaTech",
       "category": "Computers",
-      "price": 1299.99,
+      "price": 1699.99,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HAsVOhlHUEqJIiUMFrlakW4rhCROM1_QqOo6W8I-6l6xeMgXwZzQ9eVQJFS0q4zUmz0&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "name": "4K Ultra HD Smart TV",
+      "brand": "VisionTech",
+      "category": "Electronics",
+      "price": 1399.99,
+      "image": "https://images.wsj.net/im-697003?width=700&height=420"
+    },
+    {
+      "id": 5,
+      "name": "Wireless Mechanical Keyboard",
+      "brand": "KeyMaster",
+      "category": "Accessories",
+      "price": 169.99,
+      "image": "https://down-sg.img.susercontent.com/file/sg-11134207-7rbmv-ln6sexel8t9x77"
+    },
+    {
+      "id": 6,
+      "name": "Noise Cancelling Earbuds",
+      "brand": "AudioZen",
+      "category": "Electronics",
+      "price": 199.99,
+      "image": "https://wickedaudio.com/cdn/shop/files/Mojo300_Lo-5G6A1263.jpg?v=1684257823&width=1080"
     }
   ]
 }
