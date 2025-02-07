@@ -9,7 +9,7 @@
 ## Client vs Server Components
 
 - `"use client"` for Client-Side Rendering
-  If a component uses hooks like `useState` or `useEffect`, add "`use client"` at the top of the file.
+  If a component uses hooks like `useState` or `useEffect`, add `"use client"` at the top of the file.
 
 - By default, Next.js components are **server-side rendered**.
 
@@ -41,3 +41,5 @@ export const metadata = {
   ```js
   import Button from "@/components/Button";
   ```
+
+# Concept of pre-rendering (SSG + SSR)

@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "brand": "SoundMax",
+      "category": "Electronics",
+      "price": 59.99,
+      "image": "https://semangat.doran.id/uploads/public/jete/SX3/SX3%204.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone X Pro",
+      "brand": "TechNova",
+      "category": "Mobile Phones",
+      "price": 799.99,
+      "image": "https://imei.org/storage/files/images/3323/preview/infinix-zero-x-pro-4.png"
+    },
+    {
+      "id": 3,
+      "name": "Gaming Laptop 16GB RAM",
+      "brand": "GigaTech",
+      "category": "Computers",
+      "price": 1299.99,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HAsVOhlHUEqJIiUMFrlakW4rhCROM1_QqOo6W8I-6l6xeMgXwZzQ9eVQJFS0q4zUmz0&usqp=CAU"
+    }
+  ]
+}
